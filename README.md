@@ -1,4 +1,9 @@
 # SEEDlab
+
+
+*****  WARNING! BROKEN ENGLISH  *****
+
+
 Here are my lab reports for some of the security labs developed by Prof. Du of SU.
 
 Mistakes and ambiguous descriptions may frequently appear.
